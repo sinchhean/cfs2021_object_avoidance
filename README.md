@@ -12,6 +12,7 @@ This program uses SSD (Single Shot Detector) to detect object then a proposed av
 ## To run
 A Jetson Nano with Jetson Inference installed.
 Run the main.py to run the program.
+
 In main.py:
 - For checking, uses controller.py checkangle function
 - For moving the car, uses controller.py move function
