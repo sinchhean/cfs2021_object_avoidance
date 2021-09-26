@@ -72,8 +72,7 @@ class detectnet(object):
 
 		return tmp
 			
-	#def shutdown(self):
-        #self.running = False 
+
 
 if __name__ == "__main__":
 	
